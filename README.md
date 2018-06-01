@@ -5,3 +5,5 @@ Installiert einen Button mit dem sich eine zusätzliche Sidebar öffnet in welch
 Update: Möglichkeit zum Laden anderer Seiten integriert
 
 Update: Farben für Hash-Seite lassen sich einstellen
+
+Update: zusätzliche Gestaltungsmöglichkeiten eingebaut / eMail-Hinweis erstellt
